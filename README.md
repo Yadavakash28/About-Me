@@ -1,7 +1,7 @@
 
 # First-Repo
 My name is Akash
-I am a software devlepor.
+I am a software developer.
 
 
 
