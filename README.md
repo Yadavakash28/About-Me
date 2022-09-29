@@ -1,7 +1,5 @@
 
-# First-Repo
-My name is Akash
-I am a software developer.
-
-
-
+# About Me
+My name is Akash.
+I am a Full Stack Developer.
+I am from Rewari,Haryana.
