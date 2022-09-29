@@ -1,5 +1,5 @@
 
 # About Me
-My name is Akash.
+My name is Akash and I am from Rewari,Haryana.
 I am a Full Stack Developer.
-I am from Rewari,Haryana.
+
